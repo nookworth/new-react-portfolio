@@ -1,7 +1,7 @@
 {
-  "name": "react-portfolio",
+  "name": "new-react-portfolio",
+  "homepage": "https://nookworth.github.io/new-react-portfolio/",
   "version": "0.1.0",
-  "homepage": "https://nookworth.github.io/new-portfolio/",
   "private": true,
   "dependencies": {
     "@icons-pack/react-simple-icons": "^6.2.0",

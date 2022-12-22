@@ -25,4 +25,4 @@ My portfolio is mobile-responsive:
 
 ![Alt text](src/assets/Portfolio-Mobile-3.jpg)
 
-I plan to refactor and add to the code in the future. One change will be to implement React's ```<Router />``` component, and another will be to use the React-specific version of Bootstrap (or perhaps Tailwind). These changes should increase my code's functionality and make it easier to implement further changes. Other, smaller revisions will include adding more information to the About Me section and making sure the Contact forms work.
+I plan to refactor and add to the code in the future. One change will be to implement React's ```<Router />``` component, and another will be to use the React-specific version of Bootstrap (or perhaps Tailwind). These changes should increase my code's functionality and make it easier to implement further changes. Other, smaller revisions will include adding more information to the About Me section and making sure the Contact forms work. 
